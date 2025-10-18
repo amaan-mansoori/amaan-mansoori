@@ -1,74 +1,98 @@
-<!-- GitHub Profile README -->
-
-<!-- Header: Typing Animation -->
+<!-- Animated Header with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=F7AB0A&width=600&lines=Hi+there!+I'm+Amaan+Mansoori👋;Aspiring+SDE+|+B.Tech+CSE+'26" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+  Hey, I'm <span style="color:#00FFFF;">Amaan Mansoori</span> 👨‍💻
 </h1>
 
-<!-- Pac-Man Collecting Tech Icons with Cosmic Sparkles -->
-<div align="center" style="position: relative; display:inline-block;">
-  <!-- Background Sparkles -->
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" 
-       alt="Cosmic Sparkles" 
-       width="400" 
-       style="position: absolute; top:0; left:0; z-index:0;"/>
-       
-  <!-- Pac-Man Collecting Tech Icons -->
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" 
-       alt="Pac-Man Collecting Tech Icons" 
-       width="350" 
-       style="position: relative; z-index:1;"/>
-</div>
-
----
-
-### 🔹 About Me
-- 👨‍💻 Aspiring Software Development Engineer  
-- 🎓 B.Tech CSE ’26 | LNCT Bhopal  
-- 💡 Passionate about coding, tech, and creative projects  
-- 📬 Contact: <a href="mailto:mansoori280904@gmail.com">mansoori280904@gmail.com</a>  
-
----
-
-### 🌟 Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer+(SDE);Full+Stack+%7C+AI+%7C+Cloud+Developer;UI%2FUX+Designer+%26+Open+Source+Contributor;Google+%7C+Microsoft+%7C+NVIDIA+%7C+Oracle+Certified;Always+Learning+and+Building+Something+New!">
+</p>
+
+<p align="center">
+  <a href="mailto:mansoori280904@gmail.com"><img src="https://img.shields.io/badge/Email-mansoori280904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amaan-mansoori-01b451285"><img src="https://img.shields.io/badge/LinkedIn-Amaan%20Mansoori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=amaan-mansoori&label=Profile%20Views&color=00FFFF&style=for-the-badge">
 </p>
 
 ---
 
-### 💻 Projects
+## 🧠 About Me  
+
+🎓 Final-year **B.Tech CSE student at LNCT, Bhopal (’26)** passionate about creating scalable and intelligent software systems.  
+💡 Proficient in **Java, Python, JavaScript, ReactJS, Node.js, Express, and Databases**.  
+⚙️ Experienced in **Full-Stack Development, RESTful APIs, and DSA**.  
+☁️ Certified by **Google, Microsoft, NVIDIA, Oracle, Cisco, and Infosys** in **AI, Cloud, Cybersecurity, and Software Engineering**.  
+🧠 Skilled in **Generative AI, Streamlit, Gemini API, LLMs, RAG Agents, Kubernetes, and BigQuery ML**.  
+💬 Mentored **3000+ students**, guiding them in tech, projects, and career paths.  
+🌱 Currently exploring **GenAI x Web**, **Cloud-Native Apps**, and **Open-Source Contributions**.  
+🚀 **Goal:** To innovate, build, and contribute to cutting-edge technologies that make a difference.  
+
+---
+
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <a href="https://github.com/amaan-mansoori/Spotify-Clone"><img src="https://img.shields.io/badge/Spotify_Clone-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <a href="https://github.com/amaan-mansoori/Portfolio"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/amaan-mansoori/PacMan"><img src="https://img.shields.io/badge/Pac-Man-FFDE00?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,git,github,postman,figma,canva,vscode,linux,cloudflare" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mansoori&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-mansoori&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amaan-mansoori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-mansoori&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-mansoori&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🏆 Achievements & Certifications  
+
+🏅 **Certified By:** Google • Microsoft • NVIDIA • Oracle • Cisco • Infosys  
+📜 **Highlights:**  
+- Oracle Cloud Developer Professional  
+- Google Cloud Essentials  
+- NVIDIA Deep Learning & Generative AI  
+- Microsoft Cybersecurity Fundamentals  
+
+---
+
+## 🐍 Watch My Contribution Snake  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/amaan-mansoori-01b451285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mansoori280904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/amaan-mansoori"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github.com/amaan-mansoori/amaan-mansoori/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### ✨ Easter Egg
+## 💬 Quote of the Day  
+
+> “Strive for progress, not perfection — because great software is built one commit at a time.”
+
+---
+
+## 🌐 Connect With Me  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="Pac-Man Collecting Tech Icons"/>
+  <a href="mailto:mansoori280904@gmail.com"><img src="https://img.shields.io/badge/Gmail-mansoori280904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amaan-mansoori-01b451285"><img src="https://img.shields.io/badge/LinkedIn-Amaan%20Mansoori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/amaan-mansoori"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amaan-mansoori&theme=radical&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+<h3 align="center">✨ “Code. Create. Contribute.” ✨</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aman-atg/aman-atg/main/assets/line-neon.gif" width="90%">
 </p>
